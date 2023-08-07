@@ -1,7 +1,6 @@
 # AntraShareClient_React
-Transform Antrashare_UI from Angular to React.\ 
-
-## Backend: Antrashare-Serve
+Transform Antrashare_UI from Angular to React.\
+Backend: Antrashare-Serve
 
 
 # Getting Started with Create React App
